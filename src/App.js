@@ -1,6 +1,29 @@
 import logo from './logo.svg';
 import './App.css';
 
+
+const users = {
+  "name" : "Josh Breite",
+  "pictures" : "fake.url",
+  "projects" : {
+    "projectName" : "Induction Learning",
+    "projectDescription" : "Reimaning the education landscape.",
+    "teamSize" : 6,
+    "projectDuration": "2 years",
+    "greatestMoment": "Deploying the app.",
+    "projectLink" : "project.url"
+  },
+  "favoriteEntreprenuer" : "Satoshi Nakamoto",
+  "industryInterest" : ["Crypto", "FinTech"],
+  "school" : "Northwestern",
+  "major" : "Computer Science",
+  "skills" : {
+    "artistic" : [],
+    "technical" : ["React", "Python", "SQL"],
+    "softSkills" : ["Organization", "Notion"]
+  } 
+}
+
 function App() {
   return (
     <div className="App">
