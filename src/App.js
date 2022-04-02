@@ -12,7 +12,7 @@ const userInfo = {
       "teamSize" : 6,
       "projectDuration": "2 years",
       "greatestMoment": "Deploying the app.",
-      "projectLink" : "project.url"
+      "projectLink" : "https://www.inductionlearning.com/"
     },
     "favoriteEntreprenuer" : "Satoshi Nakamoto",
     "industryInterest" : ["Crypto", "FinTech"],
