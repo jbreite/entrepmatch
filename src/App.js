@@ -5,7 +5,7 @@ import './App.css';
 const userInfo = {
   users: {
     "name" : "Josh Breite",
-    "pictures" : "fake.url",
+    "pictures" : "https://josh-zabar-breite-portfolio.super.site/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Fd6ed8001-e727-4d2d-ad7e-6f6311dfb7d9%2Fimages%2F94dc677d-efd0-4b6f-88e2-39d7f33f549d.jpg&w=3840&q=80",
     "projects" : {
       "projectName" : "Induction Learning",
       "projectDescription" : "Reimaning the education landscape.",
